@@ -15,7 +15,8 @@ I'm interrested in :
 
 ![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=corecaps)
 
-
+## Contact :
+[![Gmail Badge](https://img.shields.io/badge/-corecaps@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:corecaps@gmail.com)](mailto:corecaps@gmail.com)
 <!--
 **corecaps/corecaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
