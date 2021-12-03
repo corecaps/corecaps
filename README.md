@@ -17,6 +17,11 @@ I'm a self taught code enthusiast.
   * ✨ Serbitar is not fully functionnal at the moment ✨
   * stay tuned for future releases. 
 
+## Learning : 
+[Exercism Profile](https://exercism.org/profiles/corecaps)
+[Codewars Profile](https://www.codewars.com/users/corecaps)
+[TryHackMe Profile](https://tryhackme.com/p/corecaps)
+
 
 ## ⚡ Stats
 ![Corecaps GitHub stats](https://github-readme-stats.vercel.app/api?username=corecaps&show_icons=true&theme=dracula)
