@@ -18,9 +18,9 @@ I'm a self taught code enthusiast.
   * stay tuned for future releases. 
 
 ## Learning : 
-[Exercism Profile](https://exercism.org/profiles/corecaps)
-[Codewars Profile](https://www.codewars.com/users/corecaps)
-[TryHackMe Profile](https://tryhackme.com/p/corecaps)
+[Exercism Profile](https://exercism.org/profiles/corecaps)   
+[Codewars Profile](https://www.codewars.com/users/corecaps)    
+[TryHackMe Profile](https://tryhackme.com/p/corecaps)    
 
 
 ## ⚡ Stats
