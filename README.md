@@ -1,4 +1,4 @@
-# 😄 Corecaps
+# Corecaps
 [![jgarcia's 42 stats](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
 ## 42 Cursus Projects :
 - ft_printf [![jgarcia's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2602559)](https://github.com/JaeSeoKim/badge42) 
