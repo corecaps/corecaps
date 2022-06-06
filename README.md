@@ -1,13 +1,17 @@
 # 😄 Corecaps
 [![jgarcia's 42 stats](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
-
-[![jgarcia's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2602559)](https://github.com/JaeSeoKim/badge42) - [![jgarcia's 42 Libft Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2580839)](https://github.com/JaeSeoKim/badge42)
+## 42 Cursus Projects :
+- ft_printf [![jgarcia's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2602559)](https://github.com/JaeSeoKim/badge42) 
+- libft [![jgarcia's 42 Libft Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2580839)](https://github.com/JaeSeoKim/badge42)
+- get_next_line [![jgarcia's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2607809)](https://github.com/JaeSeoKim/badge42)
+- born 2 be root [![jgarcia's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2607806)](https://github.com/JaeSeoKim/badge42)
 
 ---
  ![codewar](https://www.codewars.com/users/corecaps/badges/small) - ![visitors](https://visitor-badge.laobi.icu/badge?page_id=corecaps.github.profile.views)
 ---
 Hi,
-I'm a self taught code enthusiast.
+I'm studying code @ @42paris.
+
 🌱 I'm interrested in :
 
 
