@@ -1,5 +1,6 @@
 # 😄 Corecaps
-![codewar](https://www.codewars.com/users/corecaps/badges/small) - ![visitors](https://visitor-badge.laobi.icu/badge?page_id=corecaps.github.profile.views)
+[![jgarcia's 42 stats](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
+ ![codewar](https://www.codewars.com/users/corecaps/badges/small) - ![visitors](https://visitor-badge.laobi.icu/badge?page_id=corecaps.github.profile.views)
 ---
 Hi,
 I'm a self taught code enthusiast.
