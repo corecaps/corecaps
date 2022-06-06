@@ -7,7 +7,8 @@
 - born 2 be root [![jgarcia's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2607806)](https://github.com/JaeSeoKim/badge42)
 
 ---
- ![codewar](https://www.codewars.com/users/corecaps/badges/small) - ![visitors](https://visitor-badge.laobi.icu/badge?page_id=corecaps.github.profile.views)
+ ![codewar](https://www.codewars.com/users/corecaps/badges/small) - ![visitors](https://visitor-badge.laobi.icu/badge?page_id=corecaps.github.profile.views) <script src="https://tryhackme.com/badge/571829"></script>
+
 ---
 Hi,
 I'm studying code @ @42paris.
