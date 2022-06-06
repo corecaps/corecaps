@@ -13,7 +13,7 @@
 ---
 
 Hi,
-I'm studying code @ @42paris.
+I'm studying code @ [42 paris - Born 2 code](https://42.fr/) .
 
 🌱 I'm interrested in :
 
