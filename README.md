@@ -29,11 +29,6 @@ I'm studying code @ [42 paris - Born 2 code](https://42.fr/) .
 
 ## 🔭 Projects 
 
-[Serbitar](https://github.com/corecaps/serbitar) : 
-  * Serbitar is a custom tool to manage youtube video & calibre ebook sources note in a zettelkasten (works with org-mode and/or obsidian.md). 
-  * It's written in Python 3.9, uses pytube, SQLite, Rich, Tkinter, poetry, pytest. 
-  * ✨ Serbitar is not fully functionnal at the moment ✨
-  * stay tuned for future releases. 
 
 ## ⚡ Stats
 ![Corecaps GitHub stats](https://github-readme-stats.vercel.app/api?username=corecaps&show_icons=true&theme=dracula)
