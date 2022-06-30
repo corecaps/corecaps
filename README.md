@@ -29,6 +29,10 @@ I'm studying code @ [42 paris - Born 2 code](https://42.fr/) .
 
 ## 🔭 Projects 
 
+### Conway game of life 
+Graphic implementation of the classic game of life in C with Minilibx 
+
+https://github.com/corecaps/conway
 
 ## ⚡ Stats
 ![Corecaps GitHub stats](https://github-readme-stats.vercel.app/api?username=corecaps&show_icons=true&theme=dracula)
