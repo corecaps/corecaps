@@ -32,7 +32,12 @@ I'm studying code @ [42 paris - Born 2 code](https://42.fr/) .
 ### Conway game of life 
 Graphic implementation of the classic game of life in C with Minilibx 
 
-https://github.com/corecaps/conway
+[https://github.com/corecaps/conway]
+
+### Asteroids 
+Simple implementation of the classic arcarde game Asteroids in pure C using Minilibx as a side project during my 42 school cursus.
+
+[https://github.com/corecaps/asteroids]
 
 ## ⚡ Stats
 ![Corecaps GitHub stats](https://github-readme-stats.vercel.app/api?username=corecaps&show_icons=true&theme=dracula)
