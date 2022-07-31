@@ -10,6 +10,7 @@ I'm studying code @ [42 paris - Born 2 code](https://42.fr/) .
 ---
 
 [![jgarcia's 42 stats](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
+
 ## 42 Cursus Projects :
 | PROJECT | REPO | NOTE / STATUS |
 |---------|------|--------------:|
