@@ -18,6 +18,12 @@ I'm studying code @ [42 paris - Born 2 code](https://42.fr/) .
 | libft  |         | [![jgarcia's 42 Libft Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2580839)](https://github.com/JaeSeoKim/badge42) |
 | get_next_line  |      | [![jgarcia's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2607809)](https://github.com/JaeSeoKim/badge42) |
 | born 2 be root  |      |  [![jgarcia's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2607806)](https://github.com/JaeSeoKim/badge42) |
+| Fractol | https://github.com/corecaps/fractol | [![jgarcia's 42 fract-ol Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2704521)](https://github.com/JaeSeoKim/badge42) |
+| Minitalk |  | [![jgarcia's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2704523)](https://github.com/JaeSeoKim/badge42) |
+| Push Swap |  | [![jgarcia's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2709399)](https://github.com/JaeSeoKim/badge42) |
+
+
+
 <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/corecaps.png">
 
 
