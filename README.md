@@ -16,7 +16,7 @@ I'm studying code @ [42 paris - Born 2 code](https://42.fr/)
 RealTime Audio Synthesizer.
   - audioengine built with [portaudio](http://portaudio.com/)
   - gui built with [minilibx](https://github.com/42Paris/minilibx-linux).
-
+https://github.com/corecaps/MiniSynth
 
 ### Asteroids ![C89](https://img.shields.io/badge/C-89-green) ![MiniLibX](https://img.shields.io/badge/Minilibx-linux-green) ![GitHub](https://img.shields.io/github/license/corecaps/asteroids?style=flat-square)
 Simple implementation of the classic arcarde game Asteroids in pure C using [minilibx](https://github.com/42Paris/minilibx-linux) as a side project during my 42 school cursus.
