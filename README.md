@@ -1,6 +1,6 @@
 # Corecaps
 Hi,
-I'm studying code @ [42 paris - Born 2 code](https://42.fr/) .
+I'm studying code @ [42 paris - Born 2 code](https://42.fr/) ![42](/42.svg).
 
 🌱 I'm interrested in :
 ---
