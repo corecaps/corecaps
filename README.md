@@ -17,7 +17,7 @@ RealTime Audio Synthesizer.
   - gui built with [minilibx](https://github.com/42Paris/minilibx-linux).
 
 
-### Asteroids ![C89](https://img.shields.io/badge/C-89-green) ![MiniLibX](https://img.shields.io/badge/Minilibx-linux-green)
+### Asteroids ![C89](https://img.shields.io/badge/C-89-green) ![MiniLibX](https://img.shields.io/badge/Minilibx-linux-green) ![GitHub](https://img.shields.io/github/license/corecaps/asteroids?style=flat-square)
 Simple implementation of the classic arcarde game Asteroids in pure C using [minilibx](https://github.com/42Paris/minilibx-linux) as a side project during my 42 school cursus.
 ![ASTEROIDS](https://github.com/corecaps/asteroids/raw/main/screenshot.png)
 https://github.com/corecaps/asteroids
