@@ -43,7 +43,7 @@ Graphic implementation of the classic game of life in C with Minilibx
 
 ### Asteroids 
 Simple implementation of the classic arcarde game Asteroids in pure C using Minilibx as a side project during my 42 school cursus.
-
+![[https://github.com/corecaps/asteroids/raw/main/screenshot.png]]
 [https://github.com/corecaps/asteroids]
 
 ## ⚡ Stats
