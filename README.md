@@ -9,6 +9,24 @@ I'm studying code @ [42 paris - Born 2 code](https://42.fr/) .
 
 ---
 
+## 🔭 Projects 
+
+### Conway game of life 
+Graphic implementation of the classic game of life in C with [minilibx](https://github.com/42Paris/minilibx-linux) 
+[CONWAY](https://github.com/corecaps/conway/blob/main/screenshot.png?raw=true)
+[https://github.com/corecaps/conway]
+
+### Asteroids 
+Simple implementation of the classic arcarde game Asteroids in pure C using [minilibx](https://github.com/42Paris/minilibx-linux) as a side project during my 42 school cursus.
+![ASTEROIDS](https://github.com/corecaps/asteroids/raw/main/screenshot.png)
+[https://github.com/corecaps/asteroids]
+
+### MiniSynth 
+RealTime Audio Synthesizer, audioengine built with [portaudio](http://portaudio.com/), gui built with [minilibx](https://github.com/42Paris/minilibx-linux).
+
+
+---
+
 [![jgarcia's 42 stats](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
 
 ## 42 Cursus Projects :
@@ -32,19 +50,6 @@ I'm studying code @ [42 paris - Born 2 code](https://42.fr/) .
 ---
 
 
-
-
-## 🔭 Projects 
-
-### Conway game of life 
-Graphic implementation of the classic game of life in C with Minilibx 
-
-[https://github.com/corecaps/conway]
-
-### Asteroids 
-Simple implementation of the classic arcarde game Asteroids in pure C using Minilibx as a side project during my 42 school cursus.
-![ASTEROIDS](https://github.com/corecaps/asteroids/raw/main/screenshot.png)
-[https://github.com/corecaps/asteroids]
 
 ## ⚡ Stats
 ![Corecaps GitHub stats](https://github-readme-stats.vercel.app/api?username=corecaps&show_icons=true&theme=dracula)
