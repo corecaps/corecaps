@@ -13,7 +13,7 @@ I'm studying code @ [42 paris - Born 2 code](https://42.fr/) .
 
 ### Conway game of life 
 Graphic implementation of the classic game of life in C with [minilibx](https://github.com/42Paris/minilibx-linux) 
-[CONWAY](https://github.com/corecaps/conway/blob/main/screenshot.png?raw=true)
+![CONWAY](https://github.com/corecaps/conway/blob/main/screenshot.png?raw=true)
 [https://github.com/corecaps/conway]
 
 ### Asteroids 
