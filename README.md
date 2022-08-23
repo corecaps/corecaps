@@ -12,19 +12,21 @@ I'm studying code @ [42 paris - Born 2 code](https://42.fr/) .
 ## 🔭 Projects 
 
 ### MiniSynth 
-RealTime Audio Synthesizer, audioengine built with [portaudio](http://portaudio.com/), gui built with [minilibx](https://github.com/42Paris/minilibx-linux).
+RealTime Audio Synthesizer.
+  - audioengine built with [portaudio](http://portaudio.com/)
+  - gui built with [minilibx](https://github.com/42Paris/minilibx-linux).
 
 
 ### Asteroids 
 Simple implementation of the classic arcarde game Asteroids in pure C using [minilibx](https://github.com/42Paris/minilibx-linux) as a side project during my 42 school cursus.
 ![ASTEROIDS](https://github.com/corecaps/asteroids/raw/main/screenshot.png)
-[https://github.com/corecaps/asteroids]
+https://github.com/corecaps/asteroids
 
 
 ### Conway game of life 
 Graphic implementation of the classic game of life in C with [minilibx](https://github.com/42Paris/minilibx-linux) 
 ![CONWAY](https://github.com/corecaps/conway/blob/main/screenshot.png?raw=true)
-[https://github.com/corecaps/conway]
+https://github.com/corecaps/conway
 
 ---
 
