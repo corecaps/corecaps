@@ -12,7 +12,7 @@ I'm studying code @ [42 paris - Born 2 code](https://42.fr/)
 
 ## 🔭 Projects 
 
-### MiniSynth ![C89](https://img.shields.io/badge/C-89-green) ![MiniLibX](https://img.shields.io/badge/Minilibx-linux-green) ![PortAudio](https://img.shields.io/badge/PortAudio-v19-green)
+### MiniSynth ![C89](https://img.shields.io/badge/C-89-green) ![MiniLibX](https://img.shields.io/badge/Minilibx-linux-green) ![PortAudio](https://img.shields.io/badge/PortAudio-v19-green) ![GPL](https://img.shields.io/github/license/corecaps/MiniSynth?color=green)
 RealTime Audio Synthesizer.
   - audioengine built with [portaudio](http://portaudio.com/)
   - gui built with [minilibx](https://github.com/42Paris/minilibx-linux).
