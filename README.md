@@ -1,6 +1,8 @@
 # Corecaps
 Hi,
 I'm studying code @ [42 paris - Born 2 code](https://42.fr/)
+I'm learning C, C++, Java & Rust.
+
 <img src="/42.svg" width=50 height=50 >
 
 🌱 I'm interrested in :
@@ -11,6 +13,10 @@ I'm studying code @ [42 paris - Born 2 code](https://42.fr/)
 ---
 
 ## 🔭 Projects 
+
+### Minishell ![C89](https://img.shields.io/badge/C-89-green)
+Minishell is a school project implementing a minimal unix shell, featuring a ll(1) parser, pipe and redirection abilities, builtins command.
+https://github.com/corecaps/minishell
 
 ### MiniSynth ![C89](https://img.shields.io/badge/C-89-green) ![MiniLibX](https://img.shields.io/badge/Minilibx-linux-green) ![PortAudio](https://img.shields.io/badge/PortAudio-v19-green) ![GPL](https://img.shields.io/github/license/corecaps/MiniSynth?color=green)
 RealTime Audio Synthesizer.
