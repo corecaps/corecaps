@@ -49,6 +49,10 @@ https://github.com/corecaps/conway
 | Fractol | https://github.com/corecaps/fractol | [![jgarcia's 42 fract-ol Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2704521)](https://github.com/JaeSeoKim/badge42) |
 | Minitalk |  | [![jgarcia's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2704523)](https://github.com/JaeSeoKim/badge42) |
 | Push Swap |  | [![jgarcia's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2709399)](https://github.com/JaeSeoKim/badge42) |
+| Minishell | https://github.com/corecaps/minishell | [![jgarcia's 42 minishell Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2904798)](https://github.com/JaeSeoKim/badge42) |
+| Philosopher | | [![jgarcia's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2904762)](https://github.com/JaeSeoKim/badge42) |
+
+
 
 
 
