@@ -1,75 +1,76 @@
 # Corecaps
-Hi,
-I'm studying code @ [42 paris - Born 2 code](https://42.fr/)
+👨‍⚕️ Full-time Nurse | 💻 Aspiring Developer
+Hi, 
 I'm learning C, C++, Java & Rust.
+📚 Studying code at [42 paris - Born 2 code](https://42.fr/) since May 2022
 
 <img src="/42.svg" width=50 height=50 >
 
+## About Me
+
+Hello there! I'm a dedicated full-time nurse with a passion for coding and understanding the intricacies of software. Currently enrolled at School 42 in Paris, I've been diving deep into the world of Unix low-level coding using C. Alongside, I've explored graphic programming and delved into data structures and algorithms.
+
+## Past Projects
+
+### libft
+An implementation from scratch of essential libc functions, providing a solid foundation in C language fundamentals. This project involved understanding memory management, pointer manipulation, and the intricacies of standard C library functions.
+
+### ftprintf
+Developed an implementation of the printf function, gaining a deeper understanding of variadic arguments, format specifiers, and the intricacies of text formatting. This project honed skills in parsing and handling diverse input.
+
+### gnl (getnextline)
+Created a function to read files line by line, delving into the use of static variables and memory management. This project enhanced expertise in handling file I/O operations efficiently.
+
+### asteroids
+Built a clone of the famous game using the 42 School graphic library minilibx. This project provided hands-on experience in graphic programming, dealing with real-time rendering, user input, and game mechanics.
+
+### conway
+Implemented a graphical version of Conway's Game of Life using the 42 graphic library minilibx. This project involved algorithmic thinking, handling grid-based simulations, and graphical representation.
+
+### fractol
+Developed a graphical fractal generator, delving into complex mathematical concepts, real-time rendering, and user interaction. This project improved skills in algorithmic implementation and optimizing graphical performance.
+
+### minitalk
+Designed a client-server program communicating with Unix signals. This project focused on interprocess communication, signal handling, and synchronization, showcasing skills in low-level networking.
+
+### push swap
+Created a sorting program with specific constraints, emphasizing sorting algorithms and complexity. This project deepened understanding of sorting algorithms, efficiency considerations, and algorithmic optimization.
+
+### minishell
+Developed a working shell (not fully POSIX compliant), delving deeper into system programming. This project included parsing commands, managing processes, and working with system calls, providing a comprehensive view of shell functionality. Notably, I implemented an LL(1) parser to generate an abstract syntax tree (AST), enhancing skills in parsing techniques, syntax analysis, and building hierarchical representations of program structure.
+
+### arkanoid
+Designed a clone of the famous game, refining skills in game development, collision detection, and user interface design. This project provided hands-on experience in creating interactive and visually appealing applications.
+
+### philosophers
+Implemented the dining philosophers problem to explore multithreading. This project focused on concurrent programming, synchronization, and addressing challenges in shared resource management in a multithreaded environment.
+
+### cub3d
+Created a raycast engine inspired by the famous Wolfenstein 3D game. This project deepened understanding of computer graphics, 3D rendering techniques, and mathematical concepts behind raycasting. Additionally, I implemented a basic AI using the Breadth-First Search (BFS) pathfinding algorithm. This addition not only enhanced the gaming experience by introducing interactive elements but also provided valuable insights into AI algorithms, pathfinding strategies, and the integration of artificial intelligence within a graphical environment.
+
+### inception
+Explored containers and Docker, serving as an introduction to containerization. This project provided hands-on experience in container orchestration, Dockerfile creation, and understanding the principles of container-based deployment.
+
+### AI Safety Hackathon (Effiscience)
+
+Participated in the Effiscience hackathon focused on Artificial Intelligence safety. During this event, I gained hands-on experience implementing neural networks for computer vision using Python with PyTorch. The emphasis was on AI safety and bias mitigation, providing valuable insights into responsible AI development practices. This project not only enhanced technical skills in machine learning but also deepened understanding of ethical considerations in artificial intelligence.
+
+## Interests
+
+Passionate about Linux and free and open-source software, I also enjoy customizing my environment (currently using Qtile on Arch). My exploration extends to cybersecurity, especially on the red team side, with a focus on web application security. I also love delving into RF protocols and communications.
+
+## Future Learning Goals
+
+Excited to explore:
+- 🚀 Advanced C++, Java, and Rust
+- 🌐 Network Programming
+- 🎵 Digital Signal Processing
+
+Let's connect and code together! 🚀
 🌱 I'm interrested in :
 ---
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white) - ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) - ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) - ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) - ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) - 	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) - 
 ---
-
-## 🔭 Projects 
-
-### Minishell ![C89](https://img.shields.io/badge/C-89-green)
-Minishell is a school project implementing a minimal unix shell, featuring a ll(1) parser, pipe and redirection abilities, builtins command.
-https://github.com/corecaps/minishell
-
-### MiniSynth ![C89](https://img.shields.io/badge/C-89-green) ![MiniLibX](https://img.shields.io/badge/Minilibx-linux-green) ![PortAudio](https://img.shields.io/badge/PortAudio-v19-green) ![GPL](https://img.shields.io/github/license/corecaps/MiniSynth?color=green)
-RealTime Audio Synthesizer.
-  - audioengine built with [portaudio](http://portaudio.com/)
-  - gui built with [minilibx](https://github.com/42Paris/minilibx-linux).
-
-
-https://github.com/corecaps/MiniSynth
-
-### Asteroids ![C89](https://img.shields.io/badge/C-89-green) ![MiniLibX](https://img.shields.io/badge/Minilibx-linux-green) ![GitHub](https://img.shields.io/github/license/corecaps/asteroids?style=flat-square)
-Simple implementation of the classic arcarde game Asteroids in pure C using [minilibx](https://github.com/42Paris/minilibx-linux) as a side project during my 42 school cursus.
-![ASTEROIDS](https://github.com/corecaps/asteroids/raw/main/screenshot.png)
-https://github.com/corecaps/asteroids
-
-
-### Conway game of life ![C89](https://img.shields.io/badge/C-89-green) ![MiniLibX](https://img.shields.io/badge/Minilibx-linux-green)
-Graphic implementation of the classic game of life in C with [minilibx](https://github.com/42Paris/minilibx-linux) 
-![CONWAY](https://github.com/corecaps/conway/blob/main/screenshot.png?raw=true)
-https://github.com/corecaps/conway
-
----
-
-[![jgarcia's 42 stats](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
-
-## 42 Cursus Projects :
-| PROJECT | REPO | NOTE / STATUS |
-|---------|------|--------------:|
-| ft_printf |     | [![jgarcia's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2602559)](https://github.com/JaeSeoKim/badge42) |
-| libft  |         | [![jgarcia's 42 Libft Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2580839)](https://github.com/JaeSeoKim/badge42) |
-| get_next_line  |      | [![jgarcia's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2607809)](https://github.com/JaeSeoKim/badge42) |
-| born 2 be root  |      |  [![jgarcia's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2607806)](https://github.com/JaeSeoKim/badge42) |
-| Fractol | https://github.com/corecaps/fractol | [![jgarcia's 42 fract-ol Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2704521)](https://github.com/JaeSeoKim/badge42) |
-| Minitalk |  | [![jgarcia's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2704523)](https://github.com/JaeSeoKim/badge42) |
-| Push Swap |  | [![jgarcia's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2709399)](https://github.com/JaeSeoKim/badge42) |
-| Minishell | https://github.com/corecaps/minishell | [![jgarcia's 42 minishell Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2904798)](https://github.com/JaeSeoKim/badge42) |
-| Philosopher | | [![jgarcia's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl43b31uz001609lf8iuxb19y/project/2904762)](https://github.com/JaeSeoKim/badge42) |
-
-
-
-
-
-<img align="right" src="https://tryhackme-badges.s3.amazonaws.com/corecaps.png">
-
-
----
-![codewar](https://www.codewars.com/users/corecaps/badges/small) - ![visitors](https://visitor-badge.laobi.icu/badge?page_id=corecaps.github.profile.views)
----
-
-
-
-## ⚡ Stats
-![Corecaps GitHub stats](https://github-readme-stats.vercel.app/api?username=corecaps&show_icons=true&theme=dracula)
-
-
-![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=corecaps)
 
 ## 📫 Contact :
 [![Gmail Badge](https://img.shields.io/badge/-corecaps@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:corecaps@gmail.com)](mailto:corecaps@gmail.com)
