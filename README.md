@@ -10,6 +10,13 @@
 
 Hello there! I'm a dedicated full-time nurse with a passion for coding and understanding the intricacies of software. Currently enrolled at School 42 in Paris, I've been diving deep into the world of Unix low-level coding using C. Alongside, I've explored graphic programming and delved into data structures and algorithms.
 
+## Current Projects
+
+- 🖥️ Working on a window manager for X11 in C++
+- 🎹 Developing a real-time synthesizer for Linux in C
+- 🔄 Implementing a Lisp-style interpreter
+
+Let's connect and code together! 🚀
 ## Past Projects
 
 ### AI Safety Hackathon (Effiscience)
