@@ -16,7 +16,6 @@ Hello there! I'm a dedicated full-time nurse with a passion for coding and under
 - 🎹 Developing a real-time synthesizer for Linux in C
 - 🔄 Implementing a Lisp-style interpreter
 
-Let's connect and code together! 🚀
 ## Past Projects
 
 ### AI Safety Hackathon (Effiscience)
