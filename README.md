@@ -12,7 +12,7 @@ Hello there! I'm a dedicated full-time nurse with a passion for coding and under
 
 ## Current Projects
 
-- 🖥️ Working on a window manager for X11 in C++
+- 🖥️ [YggdrasilWM](https://corecaps.github.io/YggdrasilWM/) -> a Window Manager for X11 coded in C++ ![logo](https://corecaps.github.io/YggdrasilWM/doc/html/logo_small.png)
 - 🎹 Developing a real-time synthesizer for Linux in C
 - 🔄 Implementing a Lisp-style interpreter
 
