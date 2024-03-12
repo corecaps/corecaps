@@ -12,7 +12,29 @@ Hello there! I'm a dedicated full-time nurse with a passion for coding and under
 
 ## Current Projects
 
-- 🖥️ [YggdrasilWM](https://corecaps.github.io/YggdrasilWM/) -> a Window Manager for X11 coded in C++ ![logo](https://corecaps.github.io/YggdrasilWM/doc/html/logo_small.png)
+### [YggdrasilWM](https://corecaps.github.io/YggdrasilWM/)
+a Window Manager for X11 coded in C++ ![logo](https://corecaps.github.io/YggdrasilWM/logo_small.png)
+Repo : https://github.com/corecaps/YggdrasilWM
+![screenshot](https://raw.githubusercontent.com/corecaps/YggdrasilWM/main/screenshot.png)
+YggdrasilWM is Designed with modularity and extensibility at its core, this project aims to offer a customizable and user-friendly experience for managing windows on the X Window System.
+
+#### Features:
+Highly Configurable: Tailor your window management experience using either [Apple PKL](https://pkl-lang.org/index.html) or JSON, providing a seamless and flexible configuration approach.
+Modular Design: Embrace the power of customization with modular bars that support plugins. These plugins are built as shared libraries in C++, allowing for endless extensibility.
+Minimal Dependencies: Despite its robust functionality, the project maintains a lightweight footprint, relying on just a few dependencies: Xlib, Xft, RandR, Jsoncpp, and cxxopt. This ensures a streamlined and efficient performance.
+Learning and Growing: Originating as a learning project, it has evolved with the ambition of becoming a viable option for a wide range of users. Continuous improvement and new features are always on the horizon.
+Ongoing Development:
+The journey doesn't stop here; several enhancements are actively being worked on:
+- Implementation of Extended Window Manager Hints (EWMH) support
+- Introduction of more layout types and widgets for enhanced customization
+- Multimonitor support to cater to complex setups
+- Hot configuration reload for instantaneous updates
+- Among other exciting features!
+#### Get Involved:
+Released under the GNU GPLv3, this project thrives on community involvement. Whether it's through suggestions, contributions, or forks, your input is invaluable. Together, we can shape this project into an exceptional tool for X11 window management.
+
+Though still a work in progress, I am committed to making this window manager not only a testament to my learning journey but also a robust and adaptable choice for the community. Stay tuned for more updates and thank you for your interest and support!
+### other
 - 🎹 Developing a real-time synthesizer for Linux in C
 - 🔄 Implementing a Lisp-style interpreter
 
