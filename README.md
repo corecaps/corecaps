@@ -12,10 +12,11 @@ Hello there! I'm a dedicated full-time nurse with a passion for coding and under
 
 ## Current Projects
 
-### [YggdrasilWM](https://corecaps.github.io/YggdrasilWM/)
+### [YggdrasilWM](https://github.com/corecaps/YggdrasilWM)
 a Window Manager for X11 coded in C++
 - ![logo](https://corecaps.github.io/YggdrasilWM/logo_small.png)
 - Repo : https://github.com/corecaps/YggdrasilWM
+- Developement documentation : https://corecaps.github.io/YggdrasilWM/
 - ![screenshot](https://raw.githubusercontent.com/corecaps/YggdrasilWM/main/screenshot.png)
 - YggdrasilWM is Designed with modularity and extensibility at its core, this project aims to offer a customizable and user-friendly experience for managing windows on the X Window System.
 #### Features:
