@@ -13,11 +13,11 @@ Hello there! I'm a dedicated full-time nurse with a passion for coding and under
 ## Current Projects
 
 ### [YggdrasilWM](https://corecaps.github.io/YggdrasilWM/)
-a Window Manager for X11 coded in C++ ![logo](https://corecaps.github.io/YggdrasilWM/logo_small.png)
-Repo : https://github.com/corecaps/YggdrasilWM
-![screenshot](https://raw.githubusercontent.com/corecaps/YggdrasilWM/main/screenshot.png)
-YggdrasilWM is Designed with modularity and extensibility at its core, this project aims to offer a customizable and user-friendly experience for managing windows on the X Window System.
-
+a Window Manager for X11 coded in C++
+- ![logo](https://corecaps.github.io/YggdrasilWM/logo_small.png)
+- Repo : https://github.com/corecaps/YggdrasilWM
+- ![screenshot](https://raw.githubusercontent.com/corecaps/YggdrasilWM/main/screenshot.png)
+- YggdrasilWM is Designed with modularity and extensibility at its core, this project aims to offer a customizable and user-friendly experience for managing windows on the X Window System.
 #### Features:
 Highly Configurable: Tailor your window management experience using either [Apple PKL](https://pkl-lang.org/index.html) or JSON, providing a seamless and flexible configuration approach.
 Modular Design: Embrace the power of customization with modular bars that support plugins. These plugins are built as shared libraries in C++, allowing for endless extensibility.
