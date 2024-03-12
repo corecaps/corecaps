@@ -19,11 +19,16 @@ a Window Manager for X11 coded in C++
 - ![screenshot](https://raw.githubusercontent.com/corecaps/YggdrasilWM/main/screenshot.png)
 - YggdrasilWM is Designed with modularity and extensibility at its core, this project aims to offer a customizable and user-friendly experience for managing windows on the X Window System.
 #### Features:
-Highly Configurable: Tailor your window management experience using either [Apple PKL](https://pkl-lang.org/index.html) or JSON, providing a seamless and flexible configuration approach.
-Modular Design: Embrace the power of customization with modular bars that support plugins. These plugins are built as shared libraries in C++, allowing for endless extensibility.
-Minimal Dependencies: Despite its robust functionality, the project maintains a lightweight footprint, relying on just a few dependencies: Xlib, Xft, RandR, Jsoncpp, and cxxopt. This ensures a streamlined and efficient performance.
-Learning and Growing: Originating as a learning project, it has evolved with the ambition of becoming a viable option for a wide range of users. Continuous improvement and new features are always on the horizon.
-Ongoing Development:
+- Highly Configurable: Tailor your window management experience using either [Apple PKL](https://pkl-lang.org/index.html) or JSON, providing a seamless and flexible configuration approach.
+- Modular Design: Embrace the power of customization with modular bars that support plugins. These plugins are built as shared libraries in C++, allowing for endless extensibility.
+- Minimal Dependencies: Despite its robust functionality, the project maintains a lightweight footprint, relying on just a few dependencies:
+  - Xlib
+  - Xft,
+  - RandR,
+  - soncpp,
+  - cxxopt.
+- Learning and Growing: Originating as a learning project, it has evolved with the ambition of becoming a viable option for a wide range of users. Continuous improvement and new features are always on the horizon.
+#### Ongoing Development:
 The journey doesn't stop here; several enhancements are actively being worked on:
 - Implementation of Extended Window Manager Hints (EWMH) support
 - Introduction of more layout types and widgets for enhanced customization
